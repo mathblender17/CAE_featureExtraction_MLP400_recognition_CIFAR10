@@ -22,9 +22,10 @@ A Convolutional Autoencoder (CAE) is a type of artificial neural network that le
   ## Results:
   - 1st Approach:![image](https://github.com/mathblender17/CAE_featureExtraction_MLP400_recognition_CIFAR10/assets/114827353/abd63be0-e2fc-45ab-b390-b4f4e2738e22)
 
-  - 2nd Approach:![image](https://github.com/mathblender17/CAE_featureExtraction_MLP400_recognition_CIFAR10/assets/114827353/dd0f9b50-d7bd-4501-a79a-fb02db54eee1)
+  - 2nd Approach:![image](https://github.com/mathblender17/CAE_featureExtraction_MLP400_recognition_CIFAR10/assets/114827353/e1091770-4848-46b4-8b48-f2464c47f803)
+    ![image](https://github.com/mathblender17/CAE_featureExtraction_MLP400_recognition_CIFAR10/assets/114827353/dd0f9b50-d7bd-4501-a79a-fb02db54eee1)
     ![image](https://github.com/mathblender17/CAE_featureExtraction_MLP400_recognition_CIFAR10/assets/114827353/faf189d2-fcdf-4d4c-8883-eb86dd54cb94)
-    ![image](https://github.com/mathblender17/CAE_featureExtraction_MLP400_recognition_CIFAR10/assets/114827353/e1091770-4848-46b4-8b48-f2464c47f803)
+    
 
 
 
